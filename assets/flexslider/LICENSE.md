@@ -1,4 +1,4 @@
-GNU GENERAL PUBLIC LICENSE
+                    GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software artisan, Inc., <http://fsf.org/>
@@ -290,8 +290,8 @@ to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    
-    Copyright (C) 2017  themeport
+    {description}
+    Copyright (C) {year}  {fullname}
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
