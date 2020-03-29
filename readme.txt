@@ -1,9 +1,9 @@
 == Artisan WordPress Theme ==
 An elegant WordPress theme perfect for Churches, Non-Profits, and business sites.
 
-The artisan WordPress theme was designed and developed by vantagethemes.com.
+The artisan WordPress theme was designed and developed by ministryport.com.
 
-artisan WordPress Theme, Copyright 2019 vantagethemes.com
+artisan WordPress Theme, Copyright 2019 ministryport.com
 artisan is distributed under the terms of the GNU GPL
 
 == Requirements ==
@@ -13,7 +13,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Theme Support ==
-If you need monthly theme support, become a member today: vantagethemes.com/pricing.
+If you need monthly theme support, become a member today: ministryport.com/pricing.
 
 == Credits ==
 
@@ -54,14 +54,14 @@ Demo site images are from Unsplash.com and are not included in any of our themes
 == artisan Setup Instructions ==
 
 We have a basic tutorial on how to setup artisan at:
-https://vantagethemes.com/artisan/
+https://ministryport.com/artisan/
 
 Please note: If you need further help beyond the instructions above, you will need to become a premium member. Support is only available to members. You can join here:
-https://vantagethemes.com/pricing/
+https://ministryport.com/pricing/
 
 == Changelog ==
 = 1.0.1 =
-* rebrand under vantagethemes.com
+* rebrand under ministryport.com
 * CSS clean up
 
 = 1.0.0 =
